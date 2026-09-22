@@ -39,3 +39,20 @@ if(copy_list1 == list1):
     print("palindrome")
 else:
     print("Not palindrome")
+
+
+
+QN 3
+write a program to count the number of students with the "A" 
+grade in the following tuple
+
+grade =("B","C","D","A","B","A")
+print(grade.count("A"))
+
+
+QN 4
+store the above values in a list and sort them from "A" to "D"
+
+grade =["B","C","D","A","B","A"]
+grade.sort()
+print(grade)
