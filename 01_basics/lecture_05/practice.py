@@ -12,7 +12,7 @@
 #     i += 1
 
 
-#print numbers from 1 to 10
+# print numbers from 1 to 10
 # i = 1
 # while i <=5:
 #     print(i)
@@ -28,7 +28,7 @@
 
 # print("Loop ended")
 
-#break and continue statements
+# break and continue statements
 # i=1
 # while i <=5:
 #     print(i)
@@ -76,7 +76,7 @@
 # for val in protiens:
 #     print(val)
 
-#using for loop tuple
+# using for loop tuple
 # colors = ("red","green","blue")
 
 # for val in colors:
@@ -107,14 +107,14 @@
 
 
 
-#range function
+# range function
 
 # seq = range(6)
 
 # for i in seq:
 #     print(i)
 
-     #or we can use like this also 
+#      or we can use like this also 
 
 # for i in range(8):
 #     print(i)
@@ -134,7 +134,7 @@
 #     print(i) #odd numbers
 
 
-#PASS STATEMENT 
+# PASS STATEMENT 
 
 # for i in range(5):
 #     pass
@@ -144,7 +144,7 @@
     
 # print("some useful work")
 
-         #or
+#          or
 
 # for i in range(5):
 #     #empty
